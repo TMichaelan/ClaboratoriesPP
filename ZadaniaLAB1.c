@@ -2,6 +2,9 @@
 #include <stdio.h>
 #include <math.h>
 
+
+// GRUPA I5.2
+
 void zadanie1(); // Prototypy Funkcji
 void zadanie2();
 void zadanie3();
