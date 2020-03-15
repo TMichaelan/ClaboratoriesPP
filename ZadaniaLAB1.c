@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <math.h>
 
-void zadanie1(); // Прототипы функций
+void zadanie1(); // Prototypy Funkcji
 void zadanie2();
 void zadanie3();
 void zadanie4();
